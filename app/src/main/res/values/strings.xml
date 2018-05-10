@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcoQuant</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="image_new">New Image</string>
+    <string name="image_process">Process Image</string>
+    <string name="settings">Settings</string>
+    <string name="take_picture">Capture</string>
+</resources>
