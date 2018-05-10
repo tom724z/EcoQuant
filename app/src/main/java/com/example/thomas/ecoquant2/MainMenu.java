@@ -51,8 +51,8 @@ public class MainMenu extends AppCompatActivity {
     // Create an intent and open the camera
     private void openCamera(View view)
     {
-        //Intent intent = new Intent(getApplicationContext(), CameraActivity.class);
-        //startActivity(intent);
+        Intent intent = new Intent(getApplicationContext(), CameraActivity.class);
+        startActivity(intent);
     }
 
     /**
